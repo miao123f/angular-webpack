@@ -1,0 +1,22 @@
+{
+  "name": "zdyl_admin",
+  "description": "真的有料管理后台",
+  "main": "index.js",
+  "authors": [
+    "zdyl"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "真的有料"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
